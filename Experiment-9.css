@@ -41,3 +41,8 @@ button {
     cursor: pointer;
 }
 .price{
+    color: green;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+}
