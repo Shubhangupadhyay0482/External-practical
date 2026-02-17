@@ -12,3 +12,4 @@
        <H2>HP 255 G10 LAPTOP(16 GB RAM, 512 GB SSD, RYZEN 3)</H2>
        <P>A fast reliable laptop ideal for daily work,browsing and multitasking.</P>
        <P class="price">&#8377;999</P>
+        <a href="https://amzn.in/d/0cxqNwX">
