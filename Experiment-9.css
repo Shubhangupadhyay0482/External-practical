@@ -50,3 +50,8 @@ body{
     background-color: rgb(198, 198, 198);
     font-family: Arial, sans-serif;
 }
+h1{
+    text-align: center;
+    padding: 20px;
+    color: #333;
+}
