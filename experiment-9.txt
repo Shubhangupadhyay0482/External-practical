@@ -7,3 +7,6 @@
 <body>
     <h1 align="center">Best Selling Items</h1>
       <div class="container">
+      <div class="card">
+       <img src="laptop.jpeg" alt="laptop">
+       <H2>HP 255 G10 LAPTOP(16 GB RAM, 512 GB SSD, RYZEN 3)</H2>
