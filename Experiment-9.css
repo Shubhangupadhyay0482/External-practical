@@ -46,3 +46,7 @@ button {
     font-size: 18px;
     margin-top: 10px;
 }
+body{
+    background-color: rgb(198, 198, 198);
+    font-family: Arial, sans-serif;
+}
